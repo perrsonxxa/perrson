@@ -1,117 +1,117 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1蓝光1
+#EXTINF:-1 ,CCTV-1
 http://120.221.5.177:8089/PLTV/88888888/224/3221225859/1.m3u8
-#EXTINF:-1 ,CCTV-1蓝光2
+#EXTINF:-1 ,CCTV-1
 http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
-#EXTINF:-1 ,CCTV-1蓝光3
+#EXTINF:-1 ,CCTV-1
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8380729188125675257/1.m3u8?stbId=005301FF001589101611549359B92C46&channel-id=shvoolive&Contentid=8380729188125675257&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=8380729188125675257&owchid=shvoolive&owsid=9810361579531242552&AuthInfo=2TOfGIahP4HrGWrHbpJXVOhAZZf%2B%2BRvFCOimr7PCGr9K%2B8TGA2jGwhx%2FP%2B9zbDc6lyCFd7nUPkjV5yhX4M591q%2Bjz%2FVPZBSXzMBonFGRPep2MwYhKpmBifYKbDBIkjbE
-#EXTINF:-1 ,CCTV-2蓝光1
+#EXTINF:-1 ,CCTV-2
 http://120.221.5.107:8089/PLTV/88888888/224/3221225751/1.m3u8
-#EXTINF:-1 ,CCTV-2蓝光2
+#EXTINF:-1 ,CCTV-2
 http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
-#EXTINF:-1 ,CCTV-2蓝光3
+#EXTINF:-1 ,CCTV-2
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/9059700522149664924/1.m3u8?stbId=005301FF00158910000000212621A0DD&channel-id=shvoolive&Contentid=9059700522149664924&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=9059700522149664924&owchid=shvoolive&owsid=9176631579531299298&AuthInfo=2TOfGIahP4HrGWrHbpJXVOJq5SVvpOdgyIf7tzyuJqdYhL2umVWk4VA%2BiWro6vS%2FGYbJQ4PkF2oGSeOSrHR8kErWftutbDOGxkGeSWuC8HvRlxrsJs3srD2VEDgCtlA%2B
-#EXTINF:-1 ,CCTV-3蓝光1
+#EXTINF:-1 ,CCTV-3
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
-#EXTINF:-1 ,CCTV-3蓝光2
+#EXTINF:-1 ,CCTV-3
 http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
-#EXTINF:-1 ,CCTV-3蓝光3
+#EXTINF:-1 ,CCTV-3
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/7583927553614607925/1.m3u8?stbId=005301FF001589101611549359B9531C&channel-id=shvoolive&Contentid=7583927553614607925&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=7583927553614607925&owchid=shvoolive&owsid=4975061579531175360&AuthInfo=2TOfGIahP4HrGWrHbpJXVMtGfw%2Bi1RmSk6DRVWhSYHpPQhuPB3gB9HD2kYmj6h2ghYJH%2BZemKqNLOjvtazNyyelvyYAlIu0Li8OHrMDUf9T6xYM6NbVkTDG8Dli2hoZV
-#EXTINF:-1 ,CCTV-4蓝光1
+#EXTINF:-1 ,CCTV-4
 http://120.221.5.113:8089/PLTV/88888888/224/3221225757/1.m3u8
-#EXTINF:-1 ,CCTV-4蓝光2
+#EXTINF:-1 ,CCTV-4
 http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
-#EXTINF:-1 ,CCTV-4蓝光3
+#EXTINF:-1 ,CCTV-4
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=&version=1.0&owaccmark=1000000002000031664&owchid=ystenlive&owsid=4493204828580187354&AuthInfo=zmDeINsczUw%2bXOm6icTIplPJYM0PdJZ7nyJeCqAhmgD4h2W12vkSCe%2bw8qoQi5%2fj1BMuqFcEHMRAJlgQD47XRVqqHN3O4Si9Wv7MjAX%2b8AK0eHLMDmPByGK0oSB43DB7
-#EXTINF:-1 ,CCTV-5蓝光1
+#EXTINF:-1 ,CCTV-5
 http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
-#EXTINF:-1 ,CCTV-5蓝光2
+#EXTINF:-1 ,CCTV-5
 http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
-#EXTINF:-1 ,CCTV-5蓝光3
+#EXTINF:-1 ,CCTV-5
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8134369599538150431/1.m3u8?stbId=005301FF001589101611549359B91F12&channel-id=shvoolive&Contentid=8134369599538150431&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=8134369599538150431&owchid=shvoolive&owsid=9856681579531396965&AuthInfo=2TOfGIahP4HrGWrHbpJXVHgbCHVZZF5UUv019%2FSsh88KJM1EuxjKGjHOptOCA%2B9qy7SUSUSlFcfpzdjGKbaNwXQPpC5RWUW%2BWPXxlyqlAmmp3eZqD0kAJRbC1HQjeP48
-#EXTINF:-1 ,CCTV-5+蓝光1
+#EXTINF:-1 ,CCTV-5+
 http://120.221.5.101:8089/PLTV/88888888/224/3221225781/index.m3u8
-#EXTINF:-1 ,CCTV-5+蓝光2
+#EXTINF:-1 ,CCTV-5+
 http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXTINF:-1 ,CCTV-5+蓝光3
+#EXTINF:-1 ,CCTV-5+
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000020505/1.m3u8?stbId=005301FF001589101611549359B92F26&channel-id=ystenlive&Contentid=1000000001000020505&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=3007521579531929012&AuthInfo=2TOfGIahP4HrGWrHbpJXVPo6e%2BHF%2BrVo6xQQtyKDSuqu3lLj0NrV6tPDBIsVEpn3e3h8FJNoRfXgk2fJ%2B8A%2BC9FKxw7DogGmhnFazyXoBZJZPx01aV9Q%2Bs%2B%2FVnd4tZOQ
-#EXTINF:-1 ,CCTV-6蓝光1
+#EXTINF:-1 ,CCTV-6
 http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 ,CCTV-6蓝光2
+#EXTINF:-1 ,CCTV-6
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
-#EXTINF:-1 ,CCTV-6蓝光3
+#EXTINF:-1 ,CCTV-6
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6705015643145867202/1.m3u8?stbId=005301FF00158910000000212621A501&channel-id=shvoolive&Contentid=6705015643145867202&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=6705015643145867202&owchid=shvoolive&owsid=7641431579531463387&AuthInfo=2TOfGIahP4HrGWrHbpJXVGtyhHJPIcRRegoBYBxkr5gU2nvM3aYRu9pk6g1cfGsxitbm7ri6Y%2BkjLjny72IEdjBnss%2Faslq1wPHTyGHeHFYaAuxUDnXfdynLgAo%2FAhgd
-#EXTINF:-1 ,CCTV-7蓝光1
+#EXTINF:-1 ,CCTV-7
 http://120.221.5.113:8089/PLTV/88888888/224/3221225753/index.m3u8
-#EXTINF:-1 ,CCTV-7蓝光2
+#EXTINF:-1 ,CCTV-7
 http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
-#EXTINF:-1 ,CCTV-7蓝光3
+#EXTINF:-1 ,CCTV-7
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/9021776916726275968/1.m3u8?stbId=005303FF00010060000100E400EDD522&channel-id=shvoolive&Contentid=9021776916726275968&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=9021776916726275968&owchid=shvoolive&owsid=1117721579531499433&AuthInfo=dIshjDc3shv8ei%2BWF5V%2F4V6lf0HKCsUdpGR8CeY5ZvwycVHGQkBt0T4Mgr0s8ldsXtd9fDrW5osGZSl1tYFcN4xKXGPanSFGs4GR6kXBOyjKyNYEmAQ7njzvrMpDpEoy
-#EXTINF:-1 ,CCTV-8蓝光1
+#EXTINF:-1 ,CCTV-8
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
-#EXTINF:-1 ,CCTV-8蓝光2
+#EXTINF:-1 ,CCTV-8
 http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv8/HD-2500k-1080P-cctv8
-#EXTINF:-1 ,CCTV-8蓝光3
+#EXTINF:-1 ,CCTV-8
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6718199708332952607/1.m3u8?stbId=005303FF00010060000100E400EDD522&channel-id=shvoolive&Contentid=6718199708332952607&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=6718199708332952607&owchid=shvoolive&owsid=5415971579531545952&AuthInfo=dIshjDc3shv8ei%2BWF5V%2F4V6lf0HKCsUdpGR8CeY5ZvwhPD49%2ByoYvwp35mAdL%2Fiv3IhMa6%2BWOwlWxbCOH9ParUjWZpISKyxZZPoQtekRP1dMl%2BCp9T%2BIEdj1ckDKKfLV
-#EXTINF:-1 ,CCTV-9蓝光1
+#EXTINF:-1 ,CCTV-9
 http://120.221.5.113:8089/PLTV/88888888/224/3221225759/index.m3u8
-#EXTINF:-1 ,CCTV-9蓝光2
+#EXTINF:-1 ,CCTV-9
 http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
-#EXTINF:-1 ,CCTV-9蓝光3
+#EXTINF:-1 ,CCTV-9
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000014583/1.m3u8?stbId=005303FF00010060000100E400EDD522&channel-id=ystenlive&Contentid=1000000001000014583&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000014583&owchid=ystenlive&owsid=7167961579531601678&AuthInfo=dIshjDc3shv8ei%2BWF5V%2F4V6lf0HKCsUdpGR8CeY5Zvyu3lLj0NrV6tPDBIsVEpn34sImpRHeOmdxmKUDLs1%2BcZ4JMWbvuFdY7IsuWCFdW392C%2BvFQjyH4LwQq4yRWFvT
-#EXTINF:-1 ,CCTV-10蓝光1
+#EXTINF:-1 ,CCTV-10
 http://120.221.5.101:8089/PLTV/88888888/224/3221225761/index.m3u8
-#EXTINF:-1 ,CCTV-10蓝光2
+#EXTINF:-1 ,CCTV-10
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
-#EXTINF:-1 ,CCTV-10蓝光3
+#EXTINF:-1 ,CCTV-10
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5505774374187257095/1.m3u8?stbId=005301FF001589101611549359B928C9&channel-id=shvoolive&Contentid=5505774374187257095&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=5505774374187257095&owchid=shvoolive&owsid=1848841579531638041&AuthInfo=2TOfGIahP4HrGWrHbpJXVO9dhnpYCD6yZADsu%2BE3e1z0TmJ04Et2oauQoqLXutIbfy6yerDX1KNDnX4OGB2ZvZf3QlZMt7Oj%2B5HhHlpl0nNoTgXky6K2iYWb1eX3xCek
-#EXTINF:-1 ,CCTV-11蓝光1
+#EXTINF:-1 ,CCTV-11
 http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
-#EXTINF:-1 ,CCTV-11蓝光2
+#EXTINF:-1 ,CCTV-11
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
-#EXTINF:-1 ,CCTV-11蓝光3
+#EXTINF:-1 ,CCTV-11
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000019789/1.m3u8?stbId=005301FF001589101611549359B96031&channel-id=ystenlive&Contentid=1000000002000019789&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000002000019789&owchid=ystenlive&owsid=5070431579531812673&AuthInfo=2TOfGIahP4HrGWrHbpJXVDOD3a2KOxiKxQ3OD0iK1ACjKNizoRlMOkuvsTe1URoeoCCSRcfgLDg%2FiG7BT3%2BNlEIMer5%2BuzAqyByddFhoQVMoMRKerLoSM5qM9Az%2Bea7u
-#EXTINF:-1 ,CCTV-12蓝光1
+#EXTINF:-1 ,CCTV-12
 http://120.221.5.113:8089/PLTV/88888888/224/3221225763/index.m3u8
-#EXTINF:-1 ,CCTV-12蓝光2
+#EXTINF:-1 ,CCTV-12
 http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 ,CCTV-12蓝光3
+#EXTINF:-1 ,CCTV-12
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6417486185316863297/1.m3u8?stbId=005301FF001589101611549359B92F26&channel-id=shvoolive&Contentid=6417486185316863297&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=6417486185316863297&owchid=shvoolive&owsid=9153671579531878340&AuthInfo=2TOfGIahP4HrGWrHbpJXVPo6e%2BHF%2BrVo6xQQtyKDSurAX3PB%2FnVIr3xix20cl8xPdgGi1rpRM1DYWZnyEDgQSmvEeryqwyIWUPNfICRzKqmuU3YFsCIaBI4jHMacn12g
-#EXTINF:-1 ,CCTV-13蓝光1
+#EXTINF:-1 ,CCTV-13
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/1.m3u8
-#EXTINF:-1 ,CCTV-13蓝光2
+#EXTINF:-1 ,CCTV-13
 http://39.134.157.205/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 ,CCTV-13蓝光3
+#EXTINF:-1 ,CCTV-13
 http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
-#EXTINF:-1 ,CCTV-14蓝光1
+#EXTINF:-1 ,CCTV-14
 http://39.134.157.205/PLTV/88888888/224/3221225609/index.m3u8
-#EXTINF:-1 ,CCTV-14蓝光2
+#EXTINF:-1 ,CCTV-14
 http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
-#EXTINF:-1 ,CCTV-14蓝光3
+#EXTINF:-1 ,CCTV-14
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5554452538079056392/1.m3u8?stbId=005301FF001589101611549359B92F26&channel-id=shvoolive&Contentid=5554452538079056392&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=5554452538079056392&owchid=shvoolive&owsid=1386521579531934459&AuthInfo=2TOfGIahP4HrGWrHbpJXVPo6e%2BHF%2BrVo6xQQtyKDSuraKH2KM768ZNQcj3PAdtOdSSlj5RtbM3onnzvUC8Txgj%2BRYROAJoRcjfZ4YOPHclFuVVM2CqA1FqqLFpU5t7y%2B
-#EXTINF:-1 ,CCTV-15蓝光1
+#EXTINF:-1 ,CCTV-15
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1 ,CCTV-15蓝光2
+#EXTINF:-1 ,CCTV-15
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 ,CCTV-15蓝光3
+#EXTINF:-1 ,CCTV-15
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000008163/1.m3u8?stbId=005301FF00158910000000212621B0EF&channel-id=ystenlive&Contentid=1000000002000008163&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=8159411579531758075&AuthInfo=2TOfGIahP4HrGWrHbpJXVCfBjPWQNL5VnKaoeN%2FnWIWjKNizoRlMOkuvsTe1URoev67GfI1oIH4w2vVjbaVRzv3Enx1RBixVDhCnZtdnlMixFs9te0%2Bpvr2OpfN5d0VT
-#EXTINF:-1 ,CCTV-16蓝光
+#EXTINF:-1 ,CCTV-16
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 ,CCTV-16高清
+#EXTINF:-1 ,CCTV-16
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 ,CCTV-17蓝光1
+#EXTINF:-1 ,CCTV-17
 http://120.221.5.113:8089/PLTV/88888888/224/3221226093/index.m3u8
-#EXTINF:-1 ,CCTV-17蓝光2
+#EXTINF:-1 ,CCTV-17
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
-#EXTINF:-1 ,CCTV-17蓝光3
+#EXTINF:-1 ,CCTV-17
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000005000056836/1.m3u8?stbId=005301FF001589101611549359B9325E&channel-id=ystenlive&Contentid=1000000005000056836&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=9164551579532003738&AuthInfo=2TOfGIahP4HrGWrHbpJXVGO0L8hMYc%2BQSE26r5BPa9COQyZOTKfJypXfULnzEX8ov4wHfTVtjr5%2BH1gBPIHFdZVbPTqDjqKmcARryOXhfL7mPOk1Na7QiYpdWHg0hz19
-#EXTINF:-1 ,凤凰资讯蓝光1
+#EXTINF:-1 ,凤凰资讯
 http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1 ,凤凰资讯蓝光2
+#EXTINF:-1 ,凤凰资讯
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1 ,凤凰中文蓝光1
+#EXTINF:-1 ,凤凰中文
 http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-#EXTINF:-1 ,凤凰中文蓝光2
+#EXTINF:-1 ,凤凰中文
 http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 ,蓝光影视1台
 http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
@@ -168,10 +168,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226178/index.m3u8
 
 #EXTINF:-1 ,俄罗斯HD时尚频道
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 ,峨眉电影FHD
-http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-businessmbble/live/scem/index.m3u8?IASHttpSessionId=OTT3116020200826134732238973
-#EXTINF:-1 ,儿歌大全
-http://a.315600.xyz/dl/aqy.php?id=380221922
 #EXTINF:-1 ,法国时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 #EXTINF:-1 ,凤凰香港HD
@@ -258,7 +254,7 @@ http://153.99.180.70:5021/live/456/playlist.m3u8
 http://153.99.180.70:5021/live/455/playlist.m3u8
 #EXTINF:-1 ,HKS卫视高清
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 ,凤凰香港 HD
+#EXTINF:-1 ,凤凰香港
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 ,阳光卫视
 http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
@@ -432,14 +428,39 @@ http://153.99.180.70:5021/live/263/playlist.m3u8
 http://153.99.180.70:5021/live/95/playlist.m3u8
 #EXTINF:-1 ,新马亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 ,日本TOKYO
-http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
-#EXTINF:-1 ,日本购物
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-#EXTINF:-1 ,日本气象
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 ,MY3
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 ,Al Jazeera English
+https://stream1.freetv.fun/b7e066dc739a6c9b34df5e4b0910cf72a11bb3d64acfab8c1a7953609385e1a3.m3u8
+#EXTINF:-1 ,Al Jazeera English
+https://stream1.freetv.fun/ch-ng-al-jazeera-english-1.m3u8
+#EXTINF:-1 ,Al Jazeera English
+https://stream1.freetv.fun/1d570fa642f357d22687777761efc624b2f23df78c7d800dd432062087944ade.m3u8
+#EXTINF:-1 ,Al Jazeera English
+https://stream1.freetv.fun/al-jazeera-english-8.m3u8
+#EXTINF:-1 ,BBC World News
+https://stream1.freetv.fun/5c89c7c758838397ffa2303a53c55588044d10d7fafa85be997cbcac85f47230.ctv
+#EXTINF:-1 ,BBC World News
+https://stream1.freetv.fun/bbc-world-news--v-1.ctv
+#EXTINF:-1 ,BBC World News
+https://stream1.freetv.fun/b437f1bcd99daac48eedbacd5debecbd1927bb2d4fbf75b945e5ba5dbf956954.ctv
+https://stream1.freetv.fun/bbc-world-news--m-1.ctv
+#EXTINF:-1 ,BBC World News
+https://stream1.freetv.fun/9dc90eb8da14499cdd37a1c61883e6821f3370161b5823db5f96b331a3133984.m3u8
+#EXTINF:-1 ,BBC World News
+https://stream1.freetv.fun/bbc-world-news-4.m3u8
+#EXTINF:-1 ,Iran International 
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 ,Iran International 
+https://stream1.freetv.fun/335e855cd71f6ab63389ca07fbd0dcc8ea15a300ce2a41d207f85da5c5571860.m3u8
+#EXTINF:-1 ,Iran International 
+https://stream1.freetv.fun/iran-international-1.m3u8
+#EXTINF:-1 ,Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 ,Iran Press
+https://stream1.freetv.fun/df15a5bba8ae04dcd6915f106ed9500263bd2f9952d6098f7193f1e2b6a1dd76.m3u8
+#EXTINF:-1 ,Iran Press
+https://stream1.freetv.fun/iran-press-1.m3u8
 #EXTINF:-1 ,越南台
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTINF:-1 ,越南和平HBTV

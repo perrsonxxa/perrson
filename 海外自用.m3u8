@@ -1,0 +1,58 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png",CNN
+https://stream1.freetv.fun/76ede5b07535ec7d2f681cd8cca8a15ff4a8c2b64796fb7919f44114147e4ee8.ctv
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png",CNN
+https://stream1.freetv.fun/cnn-international-6.ctv
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png",CNN
+https://stream1.freetv.fun/8aefe91bfc9b8c517b25ffc2073af2235db2478beeb6c4ac85ae8a729d214640.ctv
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png",CNN
+https://stream1.freetv.fun/cnn-indonesia--id-1.ctv
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
+https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
+#EXTINF:-1 group-title="🏛海外新闻",BBC News http://103.199.161.254/Content/bbcworld/Live/Channel%28BBCworld%29/index.m3u8
+#EXTINF:-1 group-title="🏛海外新闻",BBC News https://stream1.freetv.fun/9dc90eb8da14499cdd37a1c61883e6821f3370161b5823db5f96b331a3133984.m3u8
+#EXTINF:-1 group-title="🏛海外新闻",BBC News https://stream1.freetv.fun/bbc-world-news--m-1.ctv
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",I24 News English (720p)
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png",Press TV
+https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png",Press TV
+https://lenz.splus.ir/PLTV/88888888/224/3221226156/index.m3u8
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera English (1080p)
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="🏛海外新闻",America's Voice (720p)
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang TV (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://i.imgur.com/Jdy3WNm.png",Arirang TV UN (1080p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://i.imgur.com/qGbVQir.png",CBS News Chicago (720p)
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:-1 ,like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://d3gypb03kkyu14.cloudfront.net/CBC-News-Explore/Rebrand/LG/Logo/552x200.png",CBC News
+https://amg00788-cbc-amg00788c3-lg-ca-3607.playouts.now.amagi.tv/playlist/amg00788-canadianbroadcastingcorporationcbc-cbcnewsexplore-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/Newsmax+Logo_200x800.png",Newsmax
+https://amg00217-newsmax-amg00217c2-lg-ca-4271.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 ,#https://jmp2.uk/rok-479fe0d11f3f5132a3f36b617547da3b.m3u8
+http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/5001/index.m3u8
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ThrillerTV_ChannelLogo_Horizontal.png",Thriller TV
+https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://img.platform.wurl.dev/channel/1907/lg/e72dd3/LG-Logo-PNG-100x100_v1.png",Inside Outside
+https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://img.platform.wurl.dev/channel/858/lg/a0ee4b/LG-Logo-PNG-100x100_v1.png",Gusto TV
+https://beba4d78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfR3VzdG9UVl9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="🏛海外新闻" tvg-logo="https://d3e54iig6qqew6.cloudfront.net/TCI_LG_LOGO.png",Tennis Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="🌊港·澳·台",中天新闻 
+https://stream1.freetv.fun/3911cb61b97a906da9073657a36d105d52c0b387d0e96fc9e3d53fe934cf1184.ctv
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="🌊港·澳·台",中天新闻
+https://stream1.freetv.fun/zhong-tian-xin-wen-8.ctv
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="🌊港·澳·台",中天新闻
+https://stream1.freetv.fun/b0b25e4b0974b7ececd40b18e45f072f2d80e811dcbc8ea876695b2a2b6d896a.ctv
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="🌊港·澳·台",中天新闻
+http://bxtv.3a.ink/api.php?id=ztxw$订阅源
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="🌊港·澳·台",中天新闻
+http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true

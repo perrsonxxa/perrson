@@ -127,3 +127,208 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 广东4k,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
 深圳4k,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
 山东4k,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
+
+
+
+TV1, http://hls.sohu.blog/my.php?id=tv1
+
+TV1 backup, http://hls.sohu.blog/my.php?id=tv1b
+
+TV2, http://hls.sohu.blog/my.php?id=tv2
+
+TV3, http://hls.sohu.blog/my.php?id=tv3
+
+TV3 SD, http://hls.sohu.blog/my.php?id=tv3sd
+
+TV3 backup, http://hls.sohu.blog/my.php?id=tv3b1
+
+TV3 backup2, http://hls.sohu.blog/my.php?id=tv3b2
+
+TV5, http://hls.sohu.blog/my.php?id=tv5
+
+NTV7, http://hls.sohu.blog/my.php?id=ntv7
+
+8TV, http://hls.sohu.blog/my.php?id=8tv
+
+TV9, http://hls.sohu.blog/my.php?id=tv9
+
+Al-Hijrah, http://hls.sohu.blog/my.php?id=alh
+
+Al-Hijrah (Back up 1), http://hls.sohu.blog/my.php?id=alhb
+
+Quran, http://hls.sohu.blog/my.php?id=quran
+
+Sunnah, http://hls.sohu.blog/my.php?id=sunnah
+
+Bernama, http://hls.sohu.blog/my.php?id=bernama
+
+Awani, http://hls.sohu.blog/my.php?id=awani
+
+Ceria, http://hls.sohu.blog/my.php?id=ceria
+
+Oasis, http://hls.sohu.blog/my.php?id=oasis
+
+Boo, http://hls.sohu.blog/my.php?id=boo
+
+Citra, http://hls.sohu.blog/my.php?id=citra
+
+Citra backup, http://hls.sohu.blog/my.php?id=citrab
+
+Prima, http://hls.sohu.blog/my.php?id=prima
+
+Prima backup, http://hls.sohu.blog/my.php?id=primab
+
+Ria, http://hls.sohu.blog/my.php?id=ria
+
+Ria-3, http://hls.sohu.blog/my.php?id=ria3
+
+Awesome TV, http://hls.sohu.blog/my.php?id=awesome
+
+Aura, http://hls.sohu.blog/my.php?id=aura
+
+Sensasi, http://hls.sohu.blog/my.php?id=sensasi
+
+Siar, http://hls.sohu.blog/my.php?id=siar
+
+Rania, http://hls.sohu.blog/my.php?id=rania
+
+Astro Rusi, http://hls.sohu.blog/my.php?id=astror
+
+WION, http://hls.sohu.blog/my.php?id=wion
+
+Astro MTV, http://hls.sohu.blog/my.php?id=astrom
+
+Arena, http://hls.sohu.blog/my.php?id=arena
+
+Arena 2, http://hls.sohu.blog/my.php?id=arena2
+
+Arena Bola 1, http://hls.sohu.blog/my.php?id=arenab1
+
+Arena Bola 2, http://hls.sohu.blog/my.php?id=arenab2
+
+NatGeo_Wild HD, http://hls.sohu.blog/my.php?id=ngwild
+
+RTM Sports HD, http://hls.sohu.blog/my.php?id=rtmsp
+
+Animal_Planet, http://hls.sohu.blog/my.php?id=animalp
+
+HBO Family, http://hls.sohu.blog/my.php?id=hbofam
+
+Showcase, http://hls.sohu.blog/my.php?id=showcase
+
+RTM Asean, http://hls.sohu.blog/my.php?id=rtmasean
+
+HGTV, http://hls.sohu.blog/my.php?id=hgtv
+
+Astro Badminton, http://hls.sohu.blog/my.php?id=astrobad
+
+Astro Badminton 2, http://hls.sohu.blog/my.php?id=astrobad2
+
+TLC, http://hls.sohu.blog/my.php?id=tlc
+
+Foodnetwork Hd, http://hls.sohu.blog/my.php?id=foodnet
+
+Axn HD, http://hls.sohu.blog/my.php?id=axnhd
+
+HBO HD, http://hls.sohu.blog/my.php?id=hbohd
+
+HBO Signature, http://hls.sohu.blog/my.php?id=hbosig
+
+HBO Hits, http://hls.sohu.blog/my.php?id=hbohits
+
+Dreamworks, http://hls.sohu.blog/my.php?id=dreamworks
+
+Nickelodeon, http://hls.sohu.blog/my.php?id=nick
+
+Nick Jr, http://hls.sohu.blog/my.php?id=nickjr
+
+Cartoon Network, http://hls.sohu.blog/my.php?id=cartoon
+
+Asia Food Network, http://hls.sohu.blog/my.php?id=asiafood
+
+Animal Planet (Eng), http://hls.sohu.blog/my.php?id=animalpe
+
+NatGeo Wild HD, http://hls.sohu.blog/my.php?id=ngwhd
+
+TvN, http://hls.sohu.blog/my.php?id=tvn
+
+KBS World, http://hls.sohu.blog/my.php?id=kbsw
+
+Sony HD, http://hls.sohu.blog/my.php?id=sonyhd
+
+tvN Movie, http://hls.sohu.blog/my.php?id=tvnmov
+
+Astrol Kplus, http://hls.sohu.blog/my.php?id=astrokp
+
+One, http://hls.sohu.blog/my.php?id=one
+
+AEC, http://hls.sohu.blog/my.php?id=aec
+
+AOD, http://hls.sohu.blog/my.php?id=aod
+
+华丽台 HD (Wah Lai Toi), http://hls.sohu.blog/my.php?id=hualt
+
+欢喜台 HD(Hua Hee Tai), http://hls.sohu.blog/my.php?id=huanht
+
+Astro QJ, http://hls.sohu.blog/my.php?id=astroqj
+
+TVB Jade, http://hls.sohu.blog/my.php?id=tvbjade
+
+爱奇艺 iQiyi, http://hls.sohu.blog/my.php?id=iqiyi
+
+TVB 星河台  Xing He, http://hls.sohu.blog/my.php?id=tvbxh
+
+Discovery Asia, http://hls.sohu.blog/my.php?id=discasia
+
+Dmax, http://hls.sohu.blog/my.php?id=dmax
+
+TVB Asia, http://hls.sohu.blog/my.php?id=tvbasia
+
+TVB Entertainment, http://hls.sohu.blog/my.php?id=tvbent
+
+TVB Classic, http://hls.sohu.blog/my.php?id=tvbcls
+
+Celestial Classic, http://hls.sohu.blog/my.php?id=celcls
+
+Celestial Movies HD, http://hls.sohu.blog/my.php?id=celmov
+
+Rock Actions, http://hls.sohu.blog/my.php?id=rockact
+
+Rock Entertainment, http://hls.sohu.blog/my.php?id=rockent
+
+Bollyone, http://hls.sohu.blog/my.php?id=bollyone
+
+Astro Sunmusic, http://hls.sohu.blog/my.php?id=astrosun
+
+Thangathirai, http://hls.sohu.blog/my.php?id=thanga
+
+Vinmeen, http://hls.sohu.blog/my.php?id=vinmeen
+
+Vellithirai, http://hls.sohu.blog/my.php?id=vellithirai
+
+Astro LOL, http://hls.sohu.blog/my.php?id=astrolol
+
+Al Jazeera, http://hls.sohu.blog/my.php?id=aljaz
+
+CNN, http://hls.sohu.blog/my.php?id=cnn
+
+CNN, http://hls.sohu.blog/my.php?id=cnnbu
+
+BBC World News, http://hls.sohu.blog/my.php?id=bbcwn
+
+CNBC, http://hls.sohu.blog/my.php?id=cnbc
+
+Bloomberg TV, http://hls.sohu.blog/my.php?id=bloom
+
+CNA, http://hls.sohu.blog/my.php?id=cna
+
+DW English, http://hls.sohu.blog/my.php?id=dw
+
+France 24, http://hls.sohu.blog/my.php?id=france24
+
+Eurosport, http://hls.sohu.blog/my.php?id=euro
+
+Sky News, http://hls.sohu.blog/my.php?id=skynews
+
+NHK, http://hls.sohu.blog/my.php?id=nhkprem
+

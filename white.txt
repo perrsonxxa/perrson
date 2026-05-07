@@ -162,68 +162,6 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 
-TV1, http://hls.sohu.blog/my.php?id=tv1
-
-TV1 backup, http://hls.sohu.blog/my.php?id=tv1b
-
-TV2, http://hls.sohu.blog/my.php?id=tv2
-
-TV3, http://hls.sohu.blog/my.php?id=tv3
-
-TV3 SD, http://hls.sohu.blog/my.php?id=tv3sd
-
-TV3 backup, http://hls.sohu.blog/my.php?id=tv3b1
-
-TV3 backup2, http://hls.sohu.blog/my.php?id=tv3b2
-
-TV5, http://hls.sohu.blog/my.php?id=tv5
-
-NTV7, http://hls.sohu.blog/my.php?id=ntv7
-
-8TV, http://hls.sohu.blog/my.php?id=8tv
-
-TV9, http://hls.sohu.blog/my.php?id=tv9
-
-Al-Hijrah, http://hls.sohu.blog/my.php?id=alh
-
-Al-Hijrah (Back up 1), http://hls.sohu.blog/my.php?id=alhb
-
-Quran, http://hls.sohu.blog/my.php?id=quran
-
-Sunnah, http://hls.sohu.blog/my.php?id=sunnah
-
-Bernama, http://hls.sohu.blog/my.php?id=bernama
-
-Awani, http://hls.sohu.blog/my.php?id=awani
-
-Ceria, http://hls.sohu.blog/my.php?id=ceria
-
-Oasis, http://hls.sohu.blog/my.php?id=oasis
-
-Boo, http://hls.sohu.blog/my.php?id=boo
-
-Citra, http://hls.sohu.blog/my.php?id=citra
-
-Citra backup, http://hls.sohu.blog/my.php?id=citrab
-
-Prima, http://hls.sohu.blog/my.php?id=prima
-
-Prima backup, http://hls.sohu.blog/my.php?id=primab
-
-Ria, http://hls.sohu.blog/my.php?id=ria
-
-Ria-3, http://hls.sohu.blog/my.php?id=ria3
-
-Awesome TV, http://hls.sohu.blog/my.php?id=awesome
-
-Aura, http://hls.sohu.blog/my.php?id=aura
-
-Sensasi, http://hls.sohu.blog/my.php?id=sensasi
-
-Siar, http://hls.sohu.blog/my.php?id=siar
-
-Rania, http://hls.sohu.blog/my.php?id=rania
-
 Astro Rusi, http://hls.sohu.blog/my.php?id=astror
 
 WION, http://hls.sohu.blog/my.php?id=wion
@@ -242,7 +180,7 @@ NatGeo_Wild HD, http://hls.sohu.blog/my.php?id=ngwild
 
 RTM Sports HD, http://hls.sohu.blog/my.php?id=rtmsp
 
-Animal_Planet, http://hls.sohu.blog/my.php?id=animalp
+Animal Planet, http://hls.sohu.blog/my.php?id=animalp
 
 HBO Family, http://hls.sohu.blog/my.php?id=hbofam
 
@@ -278,7 +216,7 @@ Cartoon Network, http://hls.sohu.blog/my.php?id=cartoon
 
 Asia Food Network, http://hls.sohu.blog/my.php?id=asiafood
 
-Animal Planet (Eng), http://hls.sohu.blog/my.php?id=animalpe
+Animal Planet, http://hls.sohu.blog/my.php?id=animalpe
 
 NatGeo Wild HD, http://hls.sohu.blog/my.php?id=ngwhd
 
@@ -298,19 +236,19 @@ AEC, http://hls.sohu.blog/my.php?id=aec
 
 AOD, http://hls.sohu.blog/my.php?id=aod
 
-华丽台 HD (Wah Lai Toi), http://hls.sohu.blog/my.php?id=hualt
+华丽台, http://hls.sohu.blog/my.php?id=hualt
 
-欢喜台 HD(Hua Hee Tai), http://hls.sohu.blog/my.php?id=huanht
+欢喜台, http://hls.sohu.blog/my.php?id=huanht
 
 Astro QJ, http://hls.sohu.blog/my.php?id=astroqj
 
 TVB Jade, http://hls.sohu.blog/my.php?id=tvbjade
 
-爱奇艺 iQiyi, http://hls.sohu.blog/my.php?id=iqiyi
+爱奇艺, http://hls.sohu.blog/my.php?id=iqiyi
 
-TVB 星河台  Xing He, http://hls.sohu.blog/my.php?id=tvbxh
+星河台, http://hls.sohu.blog/my.php?id=tvbxh
 
-Discovery Asia, http://hls.sohu.blog/my.php?id=discasia
+Discovery, http://hls.sohu.blog/my.php?id=discasia
 
 Dmax, http://hls.sohu.blog/my.php?id=dmax
 

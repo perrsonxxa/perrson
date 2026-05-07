@@ -3,6 +3,7 @@
 广东体育,http://hongzhijiaoyu.net:8188/udp/239.77.0.112:5146
 中天新闻,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
+中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 中天新闻,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞

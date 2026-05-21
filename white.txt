@@ -1,17 +1,17 @@
 广东体育,http://yahao.myqnapcloud.com:4022/udp/239.77.0.112:5146
 广东体育,http://pr.19760929.xyz:9688/rtp/239.77.0.112:5146
 广东体育,http://hongzhijiaoyu.net:8188/udp/239.77.0.112:5146
+中天新闻,rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
+中天新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
+中天新闻,rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
 中天新闻,http://rihou.cc:555/tv/中天新闻
-中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
-中天新闻,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
-中天新闻,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou
+中天新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-# 中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
 风云音乐,http://112.234.23.157:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,http://112.234.23.157:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -68,7 +68,7 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://49.234.31.101:7033/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 高尔夫网球,http://112.234.23.157:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-中天新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
+
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
@@ -89,7 +89,6 @@ BBC Two,http://41.205.93.154/BBCTWO/tracks-v1a1/mono.m3u8
 CNN,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 TRT World,https://tv-trtworld.medya.trt.com.tr/ma星空卫视,http://49.234.31.101:7033/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 高尔夫网球,http://112.234.23.157:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-中天新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009$订阅源
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv$订阅源
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
@@ -430,7 +429,6 @@ Channel [V],http://rihou.cc:555/tv/Channel+V
 翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
 无线新闻,https://hls.iill.top/api/TVB-News/index.m3u8
 TVB PLUS,https://hls.iill.top/api/TVB-Plus/index.m3u8
- 中天新闻,http://rihou.cc:555/tv/中天新闻
 中天亚洲,http://rihou.cc:555/tv/中天亚洲
 中天综合,http://rihou.cc:555/tv/中天综合
 中天娱乐,http://47.104.163.156:50/台湾.php?id=ztyl

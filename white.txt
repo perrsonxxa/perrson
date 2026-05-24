@@ -5,7 +5,7 @@
 中天新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
 中天新闻,rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
 中天新闻,http://rihou.cc:555/tv/中天新闻
-中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
+# 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 中天新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞

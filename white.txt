@@ -1,6 +1,7 @@
 广东体育,http://yahao.myqnapcloud.com:4022/udp/239.77.0.112:5146
 广东体育,http://pr.19760929.xyz:9688/rtp/239.77.0.112:5146
 广东体育,http://hongzhijiaoyu.net:8188/udp/239.77.0.112:5146
+中天新闻,https://4g.158.qzz.io/163189/60f5c767b807519a
 中天新闻,rtmp://ai.unispc.com/live/nb-py-ztxw
 中天新闻,rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
 中天新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8

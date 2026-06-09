@@ -3,7 +3,7 @@
 广东体育,http://hongzhijiaoyu.net:8188/udp/239.77.0.112:5146
 中天新闻,https://4g.158.qzz.io/163189/60f5c767b807519a
 中天新闻,rtmp://ai.unispc.com/live/nb-py-ztxw
-# 中天新闻,rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
+中天新闻,rtmp://media.atmsiot.com/live/ztxw
 # 中天新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
 中天新闻,rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
 中天新闻,http://rihou.cc:555/tv/中天新闻
@@ -78,12 +78,6 @@ CHC家庭影院,http://61.184.46.85:9901/tsfile/live/1023_1.m3u8?key=txiptv&play
 
 
 高尔夫网球,http://112.234.23.157:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CNA, http://hls.sohu.blog/sg.php?id=cnab1
-CNA, http://hls.sohu.blog/sg.php?id=cnab2
-CNN, http://hls.sohu.blog/sg.php?id=cnn
-CNN, http://hls.sohu.blog/sg.php?id=cnnbu
-CNA, http://hls.sohu.blog/sg.php?id=cna
-
 
 i24 news,https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/playlist-hls.m3u8
 Euronews,https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8
@@ -378,49 +372,7 @@ Astro AOD,https://php.jdshipin.com:2096/smt.php?id=Aodhd
 八度空间,https://php.jdshipin.com:2096/smt.php?id=TV8
 
 
-凤凰中文,http://122.246.147.202:8188/udp/233.50.202.35:5140
-凤凰资讯,http://122.246.147.202:8188/udp/233.50.202.36:5140
-​CCTV164K,http://122.246.147.202:8188/udp/233.50.201.63:5140
-北京卫视4K,http://122.246.147.202:8188/udp/233.50.202.100:5140
-广东卫视4K,http://122.246.147.202:8188/udp/233.50.202.101:5140
-深圳卫视4K,http://122.246.147.202:8188/udp/233.50.202.102:5140
-浙江卫视4K,http://122.246.147.202:8188/udp/233.50.202.104:5140
-东方卫视4K,http://122.246.147.202:8188/udp/233.50.202.105:5140
-湖南卫视4K,http://122.246.147.202:8188/udp/233.50.202.106:5140
-江苏卫视4K,http://122.246.147.202:8188/udp/233.50.202.107:5140
-四川卫视4K,http://122.246.147.202:8188/udp/233.50.202.109:5140
-山东卫视4K,http://122.246.147.202:8188/udp/233.50.202.108:5140
-多彩文化,http://122.246.147.202:8188/udp/233.50.200.52:5140
-BesTV-1,http://122.246.147.202:8188/udp/233.50.200.182:5140
-BesTV-2,http://122.246.147.202:8188/udp/233.50.200.183:5140
-BesTV-3,http://122.246.147.202:8188/udp/233.50.200.185:5140
-欢笑剧场,http://122.246.147.202:8188/udp/233.50.201.189:5140
 
-都市剧场,http://122.246.147.202:8188/udp/233.50.201.190:5140
-
-法制天地,http://122.246.147.202:8188/udp/233.50.201.191:5140
-
-动漫秀场,http://122.246.147.202:8188/udp/233.50.201.184:5140
-
-游戏风云,http://122.246.147.202:8188/udp/233.50.201.183:5140
-
-乐游,http://122.246.147.202:8188/udp/233.50.201.185:5140
-
-金色学堂,http://122.246.147.202:8188/udp/233.50.201.186:5140
-
-生活时尚,http://122.246.147.202:8188/udp/233.50.201.187:5140
-
-茶频道,http://122.246.147.202:8188/udp/233.50.201.188:5140
-
-快乐垂钓,http://122.246.147.202:8188/udp/233.50.201.109:5140
-
-睛彩竞技,http://122.246.147.202:8188/udp/233.50.202.26:5140
-
-睛彩篮球,http://122.246.147.202:8188/udp/233.50.202.27:5140
-
-睛彩青少,http://122.246.147.202:8188/udp/233.50.202.28:5140
-
-睛彩广场舞,http://122.246.147.202:8188/udp/233.50.202.29:5140
 
 东方卫视4K,http://59.110.175.70:10001/df4k.php?id=2030
 上海新闻综合,http://59.110.175.70:10001/df4k.php?id=20

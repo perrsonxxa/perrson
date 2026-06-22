@@ -1,10 +1,13 @@
-广东体育,http://yahao.myqnapcloud.com:4022/udp/239.77.0.112:5146
+广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146
+广东体育,http://yanshifen.top:8889/udp/239.77.0.112:5146
 广东体育,http://pr.19760929.xyz:9688/rtp/239.77.0.112:5146
+广东体育,http://wmh.wmh.ink:6633/udp/239.77.0.112:5146
 广东体育,http://hongzhijiaoyu.net:8188/udp/239.77.0.112:5146
 中天新闻,https://4g.158.qzz.io/163189/60f5c767b807519a
 中天新闻,rtmp://ai.unispc.com/live/nb-py-ztxw
 中天新闻,rtmp://media.atmsiot.com/live/ztxw
-# 中天新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
+中天新闻,rtmp://221.4.216.91/live/332123-ztxw
 中天新闻,rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
 中天新闻,http://rihou.cc:555/tv/中天新闻
 中天新闻,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
@@ -96,7 +99,7 @@ GB News,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbn
 Press TV,https://live.presstv.ir/hls/presstv.m3u8
 Press TV,https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 Al Jazeera English,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-America's Voice (720p),https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+America's Voice,https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 Arirang TV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang TV UN,https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 Newsmax,https://amg00217-newsmax-amg00217c2-lg-ca-4271.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
@@ -197,7 +200,6 @@ CH8综合,https://cdn6.163189.xyz/163189/ch8
 龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
 龙华电影,http://cdn8.163189.xyz/163189/lhdy
 龙华经典,http://cdn8.163189.xyz/163189/lhjd
-龙华卡通
 龙华偶像,http://cdn8.163189.xyz/163189/lhox
 龙华日韩,http://cdn8.163189.xyz/163189/lhrh
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
@@ -227,7 +229,7 @@ ROCK Action,http://iptv.4666888.xyz/iptv2A.php?id=50#http://tl.061833.xyz/tl/roc
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 TVB PLUS,http://74.91.26.218:82/live/j2.m3u8#https://smt.1678520.xyz/smt3.2.3.php?id=j2_twn
 华丽翡翠,https://o11.163189.xyz/stream/live/hlt/#https://smt.1678520.xyz/smt3.2.3.php?id=Tvbjade$马来
-华丽翡翠(新加坡),http://o11.163189.xyz/stream/live/jade/
+华丽翡翠,http://o11.163189.xyz/stream/live/jade/
 无线新闻,https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
 Now新闻,http://cdn.163189.xyz/163189/now
 HOY 77,http://cdn.163189.xyz/163189/hoy
@@ -245,7 +247,6 @@ Astro欢喜台,https://smt.1678520.xyz/smt3.2.3.php?id=Huahee
 VIUTV,https://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
 RTHK 31,http://cdn.163189.xyz/163189/rthk31
 RTHK 32,http://cdn.163189.xyz/163189/rthk32
-RTHK 33 
 Channel [V],http://rihou.cc:555/tv/Channel+V
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612420/live.m3u8$官网
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$官网
@@ -268,8 +269,7 @@ TVBS,http://rihou.cc:555/tv/TVBS1
 TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 镜新闻,http://rihou.cc:555/tv/镜新闻
 民视新闻,http://rihou.cc:555/tv/民视新闻
-中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻 
-台視新聞 
+中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
 民视新闻,http://211.72.174.95:8117/0.ts$原生解码最佳
 中视,http://211.72.174.95:8113/0.ts$原生解码最佳
 华视,http://211.72.174.95:8114/0.ts$原生解码最佳
@@ -371,135 +371,8 @@ Astro AOD,https://php.jdshipin.com:2096/smt.php?id=Aodhd
 凤凰香港,https://php.jdshipin.com:2096/smt.php?id=hkphoenix_twn
 美亚电影台,https://php.jdshipin.com:2096/smt.php?id=meiyamovie_twn
 八度空间,https://php.jdshipin.com:2096/smt.php?id=TV8
+翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 
-
-
-
-东方卫视4K,http://59.110.175.70:10001/df4k.php?id=2030
-上海新闻综合,http://59.110.175.70:10001/df4k.php?id=20
-上海都市频道,http://59.110.175.70:10001/df4k.php?id=18
-新纪实,http://59.110.175.70:10001/df4k.php?id=1600
-五星体育,http://59.110.175.70:10001/df4k.php?id=1605
-魔都眼,http://59.110.175.70:10001/df4k.php?id=1601
-爱上海,http://59.110.175.70:10001/df4k.php?id=2029
-第一财经,http://59.110.175.70:10001/df4k.php?id=21
-
-CCTV-1,http://129.211.14.102:25000/cctv1.m3u8
-
-CCTV-2,http://129.211.14.102:25000/cctv2.m3u8
-
-CCTV-3,http://129.211.14.102:25000/cctv3.m3u8
-
-CCTV-4,http://129.211.14.102:25000/cctv4.m3u8
-
-CCTV-5,http://129.211.14.102:25000/cctv5.m3u8
-
-CCTV-5+,http://129.211.14.102:25000/cctv5plus.m3u8
-
-CCTV-6,http://129.211.14.102:25000/cctv6.m3u8
-
-CCTV-7,http://129.211.14.102:25000/cctv7.m3u8
-
-CCTV-8,http://129.211.14.102:25000/cctv8.m3u8
-
-CCTV-9,http://129.211.14.102:25000/cctv9.m3u8
-
-CCTV-10,http://129.211.14.102:25000/cctv10.m3u8
-
-CCTV-11,http://129.211.14.102:25000/cctv11.m3u8
-
-CCTV-12,http://129.211.14.102:25000/cctv12.m3u8
-
-CCTV-13,http://129.211.14.102:25000/cctv13.m3u8
-
-CCTV-14,http://129.211.14.102:25000/cctv14.m3u8
-
-CCTV-15,http://129.211.14.102:25000/cctv15.m3u8
-
-CCTV-16,http://129.211.14.102:25000/cctv16.m3u8
-
-CCTV-17,http://129.211.14.102:25000/cctv17.m3u8
-
-CGTN,http://129.211.14.102:25000/cgtn.m3u8
-
-三沙卫视,http://129.211.14.102:25000/ssws.m3u8
-
-东南卫视,http://129.211.14.102:25000/dnws.m3u8
-
-东方卫视,http://129.211.14.102:25000/dfws.m3u8
-
-云南卫视,http://129.211.14.102:25000/ynws.m3u8
-
-内蒙古卫视,http://129.211.14.102:25000/nmgws.m3u8
-
-北京卫视,http://129.211.14.102:25000/bjws.m3u8
-
-厦门卫视,http://129.211.14.102:25000/xmws.m3u8
-
-吉林卫视,http://129.211.14.102:25000/jlws.m3u8
-
-四川卫视,http://129.211.14.102:25000/scws.m3u8
-
-天津卫视,http://129.211.14.102:25000/tjws.m3u8
-
-安徽卫视,http://129.211.14.102:25000/ahws.m3u8
-
-山东卫视,http://129.211.14.102:25000/sdws.m3u8
-
-山西卫视,http://129.211.14.102:25000/sxws.m3u8
-
-广东卫视,http://129.211.14.102:25000/gdws.m3u8
-
-广西卫视,http://129.211.14.102:25000/gxws.m3u8
-
-新疆卫视,http://129.211.14.102:25000/xjws.m3u8
-
-江苏卫视,http://129.211.14.102:25000/jsws.m3u8
-
-江西卫视,http://129.211.14.102:25000/jxws.m3u8
-
-河北卫视,http://129.211.14.102:25000/hbws.m3u8
-
-河南卫视,http://129.211.14.102:25000/hnws.m3u8
-
-海南卫视,http://129.211.14.102:25000/hnws2.m3u8
-
-湖北卫视,http://129.211.14.102:25000/hbws2.m3u8
-
-湖南卫视,http://129.211.14.102:25000/hnws3.m3u8
-
-贵州卫视,http://129.211.14.102:25000/gzws.m3u8
-
-辽宁卫视,http://129.211.14.102:25000/lnws.m3u8
-
-黑龙江卫视,http://129.211.14.102:25000/hljs.m3u8
-
-重庆卫视,http://129.211.14.102:25000/cqws.m3u8
-
-陕西卫视,http://129.211.14.102:25000/sxws2.m3u8
-
-甘肃卫视,http://129.211.14.102:25000/gsws.m3u8
-
-宁夏卫视,http://129.211.14.102:25000/nxws.m3u8
-
-青海卫视,http://129.211.14.102:25000/qhws.m3u8
-
-西藏卫视,http://129.211.14.102:25000/xzws.m3u8
-
-深圳卫视,http://129.211.14.102:25000/szws.m3u8
-
-凤凰中文,http://129.211.14.102:25000/fhzw.m3u8
-
-凤凰资讯,http://129.211.14.102:25000/fhzx.m3u8
-
-凤凰香港,http://129.211.14.102:25000/fhhk.m3u8
-
-重温经典,http://129.211.14.102:25000/cwjd.m3u8
-
-无线新闻台,http://129.211.14.102:25000/wxxw.m3u8
-
-明珠台,http://129.211.14.102:25000/mzt.m3u8
-
-翡翠台,http://129.211.14.102:25000/fct.m3u8
-
+翡翠台,https://cdn10.163189.xyz/163189/fct/
+翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 

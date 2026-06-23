@@ -116,6 +116,8 @@ Newsmax,http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/5001/index.m3u8
 Thriller TV,https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
 Inside Outside,https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
 Tennis Channel,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+Sky Sport Tennis,http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/428593
+Sky Sport Tennis,http://nrvmobil.com:2095/kadir8502/8YmCgLty8yeh/107277
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_3_0.m3u8
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_6.m3u8
@@ -381,7 +383,8 @@ Astro AOD,https://php.jdshipin.com:2096/smt.php?id=Aodhd
 美亚电影台,https://php.jdshipin.com:2096/smt.php?id=meiyamovie_twn
 八度空间,https://php.jdshipin.com:2096/smt.php?id=TV8
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
-
+Astro Badminton,http://tv.cloudcdn.me:80/live.ts?channelId=133050&uid=15301&deviceMac=00:1A:79:68:B0:74
+Astro Badminton,http://tv.cloudcdn.me:80/live.ts?channelId=133049&uid=15301&deviceMac=00:1A:79:68:B0:74
 翡翠台,https://cdn10.163189.xyz/163189/fct/
 翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 

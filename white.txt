@@ -16,8 +16,8 @@
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
-中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+#中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+#中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 
 寰宇新闻,http://rihou.cc:555/tv/寰宇新闻
 寰宇新闻,http://www.kaniptv.cn/ua3.php?etoken=RbbWqhCU4ljrR%2BXmuBWu7Fvh2QTDsGOek7jP3uIQKfgKByGOxbIcrI2b77PQBkgRa2v8xN4XMCRYGcv8pQLU3JDhMKWrf2kW5D98Icya5NdUjzcK4piEvwpRJNDKUihAAEKpm8%2F0bFy%2FMje6RUpo%2B6q9VX5JEzrPXlsklguKfiG0Wqugfndn5Qr3ffV1zp9pkvfwQp33e1JeElDURSdmc85M1A%2B6w%2FZhdtiy0%2FURLQAS6TdOQlBPET8boWXq7Z0uMunW5gCGJlTN6TLtY2D0isLpo3a68nSbGaAQO6mLL5qHQQOaMp%2BHS1JZ6eyRtYKF9wGnglbYkxmBwh6M3gX27A%3D%3D

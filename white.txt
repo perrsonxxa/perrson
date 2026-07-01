@@ -25,6 +25,7 @@
 寰宇新闻,http://jnzq.ohoyee.com:9080/live/332123-hyxw.m3u8
 寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
+中视,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
 中视,http://211.72.174.95:8113/0.ts
 中视,rtmp://f13h.mine.nu/sat/tv091
 风云音乐,http://112.234.23.157:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0

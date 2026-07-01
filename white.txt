@@ -27,6 +27,7 @@
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 中视,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
 中视,http://211.72.174.95:8113/0.ts
+中视,http://220.135.241.47:8301/0.ts
 中视,rtmp://f13h.mine.nu/sat/tv091
 风云音乐,http://112.234.23.157:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -290,8 +291,8 @@ TVB PLUS,https://hls.iill.top/api/TVB-Plus/index.m3u8
 中天亚洲,http://rihou.cc:555/tv/中天亚洲
 中天综合,http://rihou.cc:555/tv/中天综合
 中天娱乐,http://47.104.163.156:50/台湾.php?id=ztyl
-寰宇新聞,http://rihou.cc:555/tv/寰宇新闻
-寰宇新聞台湾 http://rihou.cc:555/tv/寰宇台湾
+寰宇新闻,http://rihou.cc:555/tv/寰宇新闻
+寰宇新闻,http://rihou.cc:555/tv/寰宇台湾
 东森新闻,http://rihou.cc:555/tv/东森新闻
 TVBS,http://rihou.cc:555/tv/TVBS1
 TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻

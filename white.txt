@@ -12,7 +12,7 @@
 中天新闻,rtmp://media.atmsiot.com/live/ztxw
 中天新闻,rtmp://221.4.216.91/live/332123-ztxw
 中天新闻,rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
-#中天新闻,http://rihou.cc:555/tv/中天新闻
+中天新闻,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00NCZrZXk9KioqKg==
 中天新闻,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
 中天新闻,http://jnzq.ohoyee.com:9080/live/332332-ztxw2.m3u8
 中天新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
@@ -20,7 +20,7 @@
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,rtmp://play.gzxdby.com/live/332332-ztxw2
-#中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+中天新闻,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00MyZrZXk9JTJBJTJBJTJBJTJB
 
 寰宇新闻,http://rihou.cc:555/tv/寰宇新闻
 寰宇新闻,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837

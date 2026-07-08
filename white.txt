@@ -5,13 +5,13 @@
 广东体育,http://wmh.wmh.ink:6633/udp/239.77.0.112:5146
 广东体育,http://hongzhijiaoyu.net:8188/udp/239.77.0.112:5146
 中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
-#中天新闻,
+中天新闻,rtmp://www.ipanlian.com/live/ztxw
 中天新闻,rtmp://ai.gdjs.net.cn/live/332000-ztxw2
 中天新闻,rtmp://jnzq.ohoyee.com/live/332000-ztxw2
 中天新闻,rtmp://ai.unispc.com/live/nb-py-ztxw
 中天新闻,rtmp://media.atmsiot.com/live/ztxw
 中天新闻,rtmp://221.4.216.91/live/332123-ztxw
-#中天新闻,rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
+中天新闻,rtmp://jiaohesy.cn/live/ztxw
 #中天新闻,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00NCZrZXk9KioqKg==
 #中天新闻,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
 #中天新闻,http://jnzq.ohoyee.com:9080/live/332332-ztxw2.m3u8

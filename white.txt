@@ -61,16 +61,16 @@
 文化精品,http://120.238.84.45:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://120.238.84.45:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
-翡翠台,http://r.jdshipin.com/GeWKr?id=fct406
-翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
+翡翠台,https://10.fast.hidns.vip/163189/fct/
+翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
-凤凰中文,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xJmtleT0lMkElMkElMkElMkE=
-凤凰中文,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xJmtleT0qKioq
-凤凰资讯,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yJmtleT0lMkElMkElMkElMkE=
+#凤凰中文,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xJmtleT0lMkElMkElMkElMkE=
+#凤凰中文,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xJmtleT0qKioq
+#凤凰资讯,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yJmtleT0lMkElMkElMkElMkE=
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰资讯,https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzx$fhx
-凤凰资讯,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yJmtleT0qKioq
+#凤凰资讯,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yJmtleT0qKioq
 凤凰香港,http://zwg6818.vicp.net:28000/bysid/85
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 凤凰香港,http://115.44.140.170:18180/TV00000000000000000024@HHZT
@@ -254,12 +254,12 @@ ROCK Action,http://iptv.4666888.xyz/iptv2A.php?id=50#http://tl.061833.xyz/tl/roc
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$郑州酒店
 凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信酒店
 翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
-翡翠台,https://cdn6.163189.xyz/163189/fct
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
+翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
+翡翠台,http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
 娱乐新闻,https://cdn6.163189.xyz/163189/ylxw
-翡翠台 http://t.061899.xyz/tl/js/js.php?id=tvbfct
+翡翠台 http://119.32.12.110:2905/rtp/225.1.101.45:7523
 无线新闻,https://cdn6.163189.xyz/163189/wxxw
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 TVB PLUS,http://74.91.26.218:82/live/j2.m3u8#https://smt.1678520.xyz/smt3.2.3.php?id=j2_twn
@@ -291,7 +291,7 @@ Channel [V],http://rihou.cc:555/tv/Channel+V
 澳门综艺,http://cdn6.163189.xyz/163189/amzy
 澳门Macau,https://cdn6.163189.xyz/163189/as
 澳视澳门,https://cdn6.163189.xyz/163189/asam
-翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 无线新闻,https://hls.iill.top/api/TVB-News/index.m3u8
 TVB PLUS,https://hls.iill.top/api/TVB-Plus/index.m3u8
 中天亚洲,http://rihou.cc:555/tv/中天亚洲

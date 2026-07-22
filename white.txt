@@ -5,11 +5,11 @@
 广东体育,http://wmh.wmh.ink:6633/udp/239.77.0.112:5146
 广东体育,http://hongzhijiaoyu.net:8188/udp/239.77.0.112:5146
 中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
-#中天新闻,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
+中天新闻,http://173.208.234.146/live/ctinews.m3u8
 中天新闻,http://safe.shanghairta.com:8081/live/555ztxw.m3u8
 中天新闻,http://hsjky.com.cn:8081/live/111ztxw.m3u8
 中天新闻,rtmp://47.238.2.198/live/888ztxw
-#中天新闻,rtmp://media.atmsiot.com/live/ztxw
+中天新闻,https://mqitv.luckyboy.cc.cd/live1015/index.m3u8
 中天新闻,rtmp://221.4.216.91/live/332123-ztxw
 中天新闻,http://www.ipanlian.com:8080/live/222ztxw.m3u8
 #中天新闻,http://00123.168ro.top:44345/4gtv-4gtv009/index.m3u8?token=NV6Zy9OZuTcA6gMQDkqK1jtEtKVyVeaFyS1UY9gnyInSmVNBVNifIN8utLLz3I9N&proxy=true

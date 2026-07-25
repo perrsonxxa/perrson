@@ -11,8 +11,8 @@
 中天新闻,rtmp://47.238.2.198/live/888ztxw
 中天新闻,https://mqitv.luckyboy.cc.cd/live1015/index.m3u8
 中天新闻,rtmp://221.4.216.91/live/332123-ztxw
-#中天新闻,http://www.ipanlian.com:8080/live/222ztxw.m3u8
-#中天新闻,http://00123.168ro.top:44345/4gtv-4gtv009/index.m3u8?token=NV6Zy9OZuTcA6gMQDkqK1jtEtKVyVeaFyS1UY9gnyInSmVNBVNifIN8utLLz3I9N&proxy=true
+中天新闻,http://www.kaniptv.cn/uadl.php?etoken=lB9%2FND5XwaxU%2F7chTsDgs1704yu7xjHWz4yGDrmXtoW3mmVK040xu%2Bq8AU3KKiBiqHFQy86FcdXUDoaHvEqLneyV6xYrORr181NS2BrAGufSKfJZw%2BtIlH%2Bwflv6nGWg6q1qQP4undo%2BEDdd4YajrYrhhVrKgissC5r%2FmAJNmBrJFhiaZWlpS3%2Bdh8XzYRBvxcxZPatGFKA41%2FL42GQRNePZ6LygUIkYDEqDZyTjF4zBTJ0rhV5JalLjaH%2BDScJxfT9Wj3vuKVfmEzT3NdtNnvAt9%2FTN2t9EXp6babeHmXsOckHVpDtGfrOfcvBY0jiN
+中天新闻,http://www.kaniptv.cn/uadl.php?etoken=iBzJRsE9OGTSB%2BFRMkeD6TV7yS8OTJw9h1PO8NtfvwR%2FtvMlp7uKskI4MZPwhFZqoDIHdQpZoOma1qYIR8%2BffHeF%2BpZVrcea4cBF22gwMvcPheybIZiVEXX4Kw5wK6qXCYdduJY4mFjZEugaU72sLv%2BSL4r5fRzojs0xzgr%2B1xmuuwn%2F%2Bee%2BI4FxOQNa8fn0MWrL26kNbe%2Bfpk%2Br%2BxCaZ9F51feflpZ4761W1%2FR7L32ttgi4VTL1hSxC%2BJGM5a%2BK0KjmLRyE58%2F4fN%2FQk9UQC1AcU1I5T3wA6WwGUm%2FlznvR3NEDQjhN1PZ1A1wLSPM%2B
 #中天新闻,http://8.138.230.74:8081/live/111ztxw.flv
 #中天新闻,http://8.148.24.139:8081/live/555ztxw.m3u8
 中天新闻,http://111.0.115.129:8081/live/222ztxw.m3u8

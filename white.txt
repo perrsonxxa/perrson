@@ -63,7 +63,7 @@ CHC家庭影院,http://120.238.84.45:9901/tsfile/live/1093_1.m3u8?key=txiptv&pla
 CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台,https://10.fast.hidns.vip/163189/fct/
 翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
-凤凰中文,https://cdn.qd.je/163189/fhzw
+#凤凰中文,https://cdn.qd.je/163189/fhzw
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰中文,http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
 凤凰中文,http://www.kaniptv.cn/uadl.php?etoken=O1q3Z18SS%2BUUkDxIOETBxSx6RSVzboPmhMiqdSd4A1wKC2yamgRq8MreGEFleWTL9jKa8g6DUSUd9gB8HWUDxxKHrm%2FG2WMYigEgYgS4wye9wWRNk0K0DfuNg8EaNHafcMCup5PMNPngGS1ggK%2F2kFnDvZ7GK93kc5RWK19D7HDEaVRxUIuP0rdoKig5mNB76IcwPdmNxavoYFizyGJjCFwjYVez%2BsfNaz7Q8T2fWu6%2Fy2uDvuOymrTaU3UifTlXm%2FU4tKi%2FMW5sw3EbXzRzF8vAxfgoR1Ar%2Bf4hp22mt0BPjUbaB10d71pMjMESNqzM2r8B%2FVD123ouGyDhtfUXLA%3D%3D
@@ -169,6 +169,8 @@ Iran International,https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/
 Iran International,https://live.livetvstream.co.uk/LS-63503-4/index.m3u8
 Iran International,https://live.playstop.me/1816184091/index.m3u8
 Iran International,https://live.playstop.me/LS-63503-4/index.m3u8
+Mohabat TV,https://mohabathls.wns.live/hls/stream.m3u8
+Tehran TV,https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
 Al Jazeera English,https://fta.ektv.in/live/318/master.m3u8
 Al Jazeera English,https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8
 Al Jazeera English,http://stream.mcquack.net/131/index.m3u8
@@ -188,7 +190,11 @@ Newsmax,https://amg00217-newsmax-amg00217c2-lg-ca-4271.playouts.now.amagi.tv/pla
 Newsmax,http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/5001/index.m3u8
 Thriller TV,https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
 Inside Outside,https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
+Tennis Channel,http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+Tennis Channel,https://rezofoot.tv/Tennis/index.m3u8
+Tennis Channel,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 Tennis Channel,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+Tennis Channel,https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 Sky Sport Tennis,http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/428593
 Sky Sport Tennis,http://nrvmobil.com:2095/kadir8502/8YmCgLty8yeh/107277
 ABC News,https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8

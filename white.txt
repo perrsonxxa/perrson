@@ -215,6 +215,10 @@ ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3f
 Avang TV,https://hls.avang.live/hls/stream.m3u8
 Navahang TV,https://hls.navahang.live/hls/stream.m3u8
 PMC,https://pmchls.wns.live/hls/stream.m3u8
+PMC,https://pmcrohls.wns.live/hls/stream.m3u8
+Persiana Music,https://musichls.persiana.live/hls/stream.m3u8
+Tin TV,https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8
+Tin TV,https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 八段锦,webview://https://tyj.wuhan.gov.cn/mas/openapi/pages.do?method=exPlay&appKey=gov&id=141894
 八段锦,https://dh5.cntv.qcloudcdn.com/asp/h5e/hls/1200/0303000a/3/default/16f98815d71f47daaee841b0c004ccd2/1200.m3u8
 八段锦,webview://https://haokan.baidu.com/v?pd=wisenatural&vid=5976017822360487968

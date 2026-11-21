@@ -119,6 +119,12 @@ BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bb
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
 BBC News,http://stream.mcquack.net/85/index.m3u8
 BBC News,https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
+BBC News Persian,https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8
+BBC News Persian,https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8
+BBC News Persian,https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8
+BBC News Persian,https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
+BBC News Persian,https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+BBC News Persian,https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
 CNN,https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 CNN,https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
 CNN,http://88.212.15.50/live/test_cnn_1200_atk/playlist.m3u8
@@ -206,6 +212,9 @@ ABC News,https://c.mjh.nz/abc-news.m3u8
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_3_0.m3u8
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_6.m3u8
+Avang TV,https://hls.avang.live/hls/stream.m3u8
+Navahang TV,https://hls.navahang.live/hls/stream.m3u8
+PMC,https://pmchls.wns.live/hls/stream.m3u8
 八段锦,webview://https://tyj.wuhan.gov.cn/mas/openapi/pages.do?method=exPlay&appKey=gov&id=141894
 八段锦,https://dh5.cntv.qcloudcdn.com/asp/h5e/hls/1200/0303000a/3/default/16f98815d71f47daaee841b0c004ccd2/1200.m3u8
 八段锦,webview://https://haokan.baidu.com/v?pd=wisenatural&vid=5976017822360487968

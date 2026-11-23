@@ -131,6 +131,8 @@ CNN,http://88.212.15.50/live/test_cnn_1200_atk/playlist.m3u8
 CNN,https://tvsen6.aynaott.com/cnn/index.m3u8
 CNN,https://jmp2.uk/stvp-GBBD1900008O3
 CNN,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+Fox News,https://tvsen6.aynaott.com/foxnews/index.m3u8
+France 24,https://freem3u.xyz/api/live/play.m3u8?vid=96
 TRT World,https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 TRT World,https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
 TRT World,https://cdn.pishow.tv/ott/live/266/master.m3u8
